@@ -23,7 +23,7 @@ Este repositório foi criado para armazenar recursos e materiais utilizados nas 
 
 1. Clone este repositório para o seu ambiente local:
   ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone git@github.com:Fatec-Zona-Leste-AMS/Aula_DevOps.git
    ```
 2. Explore os diretórios relevantes para encontrar o conteúdo relacionado às aulas de Inteligência Artificial ou DevOps.
 3. Utilize os recursos disponíveis para aprimorar seu aprendizado nessas áreas.
