@@ -5,7 +5,7 @@ Este repositório foi criado para armazenar recursos e materiais utilizados nas 
 ## Conteúdo
 
 1. **Aulas de Inteligência Artificial:**
-   - Notebooks de Python com exemplos e exercícios práticos.
+   - Python, Java com exemplos e exercícios práticos.
    - Conjuntos de dados para experimentação.
    - Recursos de aprendizado, como artigos e links úteis.
 
